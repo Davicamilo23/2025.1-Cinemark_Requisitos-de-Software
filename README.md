@@ -26,7 +26,7 @@ O aplicativo **Cinemark** oferece aos usuários uma experiência completa para a
 
 ## 🗃️ Documentação
 
-A documentação do projeto pode ser acessada [aqui](https://requisitos-de-software.github.io/2025.1-Cinemark/). <br>
+A documentação do projeto pode ser acessada [aqui](https://davicamilo23.github.io/2025.1-Cinemark_Requisitos-de-Software/). <br>
 
 ---
 
