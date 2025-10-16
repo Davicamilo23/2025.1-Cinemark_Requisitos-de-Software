@@ -2,7 +2,7 @@
 
 <div align="center">
   <p><strong>Figura 1:</strong> Logo do Cinemark</p>
-  <p align="center"><img src="docs/img/logo_cinemark.png" width = 40%></p>
+  <p align="center"><img src="img/logo_cinemark.png" width = 40%></p>
   <p>Fonte: <a href="https://www.cinemark.com.br" target="_blank"><i>cinemark.com.br</i></a></p>
 </div>
 
